@@ -12,6 +12,9 @@
 - Break 250 wheat  
 - **Reward:** $6000, 5 Starter Crate Keys, unlocks Farmer Minion placement
 
+**Minion Tool Required to Start:**
+- Hoe
+
 ---
 
 ### ⛏️ Miner Minion
@@ -23,6 +26,9 @@
 **Unlock Requirement:**
 - Break 250 stone, cobblestone, or similar blocks  
 - **Reward:** $6000, 5 Starter Crate Keys, unlocks Miner Minion placement
+
+**Minion Tool Required to Start:**
+- Pickaxe
 
 > 💡 *Tip for Skyblock:* The Miner Minion can work with cobblestone generators — place it where water flows into lava to generate infinite cobblestone for mining.
 
@@ -38,6 +44,9 @@
 - Break 250 wood logs  
 - **Reward:** $6000, 3 Starter Crate Keys, unlocks Lumber Minion placement
 
+**Minion Tool Required to Start:**
+- Axe
+
 ---
 
 ### 🎣 Fisher Minion
@@ -49,6 +58,9 @@
 **Unlock Requirement:**
 - Catch 250 fish  
 - **Reward:** $6000, 5 Starter Crate Keys, unlocks Fisher Minion placement
+
+**Minion Tool Required to Start:**
+- Fishing Rod
 
 ---
 
@@ -62,6 +74,9 @@
 - Pick up 250 items (used instead of tracking sales)  
 - **Reward:** $7000, 4 Starter Crate Keys, unlocks Seller Minion placement
 
+**Minion Tool Required to Start:**
+- Bow
+
 ---
 
 ### 🗡️ Slayer Minion
@@ -73,6 +88,9 @@
 **Unlock Requirement:**
 - Kill 250 zombies  
 - **Reward:** $20000, 30 Starter Crate Keys, unlocks Slayer Minion placement
+
+**Minion Tool Required to Start:**
+- Sword
 
 ---
 
