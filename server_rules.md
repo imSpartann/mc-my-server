@@ -1,6 +1,6 @@
 :scroll: **Server Rules Summary**
 
-### :evergreen_tree: Old World
+### :evergreen_tree: Old World (SMP1)
 
 * PvP disabled
 * No griefing
@@ -11,7 +11,7 @@
 * Unclaimed regions are not protected or supported by staff
 * Grave trapping prohibited
 
-### :crossed_swords: New World
+### :crossed_swords: New World (SMP2)
 
 * PvP enabled
 * Claims available in New World and New World Nether
@@ -31,6 +31,13 @@
 * World may reset periodically
 * Do not build permanent bases here
 * Builds and items in the Resource World are not protected or supported by staff
+
+### :crossed_swords: Arena PvP
+
+* No alternate accounts may be used to farm wins.
+* No alternate accounts may be used to abuse or manipulate the Arena PvP system.
+* Do not intentionally give or trade wins between accounts.
+* Arena wins must be earned through legitimate gameplay.
 
 ### :shield: Claim Protection
 
