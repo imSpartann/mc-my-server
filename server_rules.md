@@ -1,24 +1,14 @@
-:scroll: **Server Rules Summary**
+# :scroll: Server Rules Summary
 
-### :evergreen_tree: Old World (SMP1)
-
-* PvP disabled
-* No griefing
-* No stealing
-* No raiding
-* Claims available in Old World, Old World Nether, and Old World End
-* Unclaimed builds are at your own risk
-* Unclaimed regions are not protected or supported by staff
-* Grave trapping prohibited
-
-### :crossed_swords: New World (SMP2)
+### :evergreen_tree: Survival World (Fresh SMP)
 
 * PvP enabled
-* Claims available in New World and New World Nether
-* Claims disabled in New World End
+* Stealing allowed
+* Griefing allowed
+* Grave trapping allowed
+* ClaimLand available to protect your builds
 * Unclaimed builds are at your own risk
 * Unclaimed regions are not protected or supported by staff
-* Grave trapping prohibited
 
 ### :pick: Resource World
 
@@ -46,7 +36,7 @@ Claims protect against:
 * Griefing
 * Chest theft
 * TNT damage
-* Lava & water griefing
+* Lava and water griefing
 * Creeper damage
 
 **Important:** Build inside a claim if you want protection. Unclaimed builds and regions are the player's responsibility. Staff will not restore, protect, or compensate for damage, theft, or loss occurring in unclaimed regions.
@@ -83,6 +73,6 @@ These requirements are intended to keep farms profitable while preventing unnece
 
 ### :link: Server Links
 
-Website: https://www.my-net.asia  
-FAQ: https://my-net.asia/faq  
-Discord: https://discord.my-net.asia
+**Website:** https://www.my-net.asia  
+**FAQ:** https://my-net.asia/faq  
+**Discord:** https://discord.my-net.asia
