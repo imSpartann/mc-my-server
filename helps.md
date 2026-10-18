@@ -9,13 +9,12 @@
 - Survival (SMP)
 - PvP
 - PvP Arena
-- Tier-list ranking (HTLT)
-`https://my-net.asia/rank`
+- Tier-list ranking (HTLT) — [View Rankings](https://my-net.asia/rank)
 - OneBlock
 - PlotSquared (Creative)
 - Economy
 - BedWars
-- Lifesteal (resource world)
+- Lifesteal (Resource World)
 
 ## Server Details
 
@@ -43,12 +42,40 @@
 
 ---
 
+## Getting Started
+
+- `/helps` — Open the server help menu.
+- `/spawn` — Return to spawn.
+- `/lobby` — Go to the lobby.
+- `/rules` — View server rules.
+- `/rtp` — Randomly teleport.
+- `/voteall` — Display voting links in chat so players can vote for the server.
+- `/rewards` — Access available rewards.
+- `/kits` — View available kits.
+- `/kits tools` — Claim the basic tools kit.
+
+### Starter Kit Contents
+
+The `tools` kit provides:
+
+- Leather armor
+- Stone tools
+- Guide Book
+
+---
+
 ## Crates
 
 Crate Keys can be used at the **Crate Zone** in the Lobby.
 
 - `/crates` — Access the server's crate system.
-- `/crates mass-open <crate-name> p <amount>`
+- `/crates mass-open <crate-name> p <amount>` — Open multiple crates at once.
+
+**Example:**
+
+`/crates mass-open vote p 10`
+
+Replace `vote` with the actual crate name and `10` with the number of crates to open.
 
 ---
 
@@ -61,8 +88,7 @@ Crate Keys can be used at the **Crate Zone** in the Lobby.
 - `/ah collect` — Collect sold or expired items.
 - `/ah expire` — View expired listings.
 
-**Notes:**
-- Maximum **10 active listings** per player.
+**Note:** Maximum **10 active listings** per player.
 
 ---
 
@@ -74,7 +100,6 @@ Crate Keys can be used at the **Crate Zone** in the Lobby.
 - `/sellgui` — Open the item-selling GUI.
 - `/trade` — Trade with another player.
 - `/orders` — Access the order system.
-- `/voteall` — Display voting links in chat so players can vote for the server.
 
 ---
 
@@ -88,22 +113,6 @@ Crate Keys can be used at the **Crate Zone** in the Lobby.
 
 ---
 
-## Starter Kits
-
-Players can claim basic equipment using the starter kit.
-
-- `/kit` — Access the kit commands.
-- `/kits` — View available kits.
-- `/kits tools` — Claim the basic tools kit.
-
-The `tools` kit provides:
-
-- Leather armor
-- Stone tools
-- Guide Book
-
----
-
 # Land Claim System
 
 Protect your land from other players.
@@ -111,7 +120,7 @@ Protect your land from other players.
 **Full Guide:**  
 https://github.com/imSpartann/mc-my-server/blob/main/claim.md
 
-### Creating a Claim
+## Creating a Claim
 
 - `/claim wand` — Receive a Claim Wand.
 - Left-click to set **Position 1**.
@@ -119,7 +128,7 @@ https://github.com/imSpartann/mc-my-server/blob/main/claim.md
 - `/claim confirm` — Create your land claim.
 - `/claim cancel` — Cancel the current selection.
 
-### Managing Claims
+## Managing Claims
 
 - `/claim info` — View information about the current claim.
 - `/claim list` — View all of your claims.
@@ -127,19 +136,19 @@ https://github.com/imSpartann/mc-my-server/blob/main/claim.md
 - `/claim unclaim` — Remove the claim you're standing in.
 - `/claim unclaim all` — Remove all of your claims.
 
-### Player Access
+## Player Access
 
 - `/claim trust <player>` — Allow a player to build in your claim.
 - `/claim untrust <player>` — Remove a player's access.
 - `/claim trusted` — View trusted players.
 
-### Protection
+## Protection
 
 - `/claim protect on` — Enable claim protection.
 - `/claim protect off` — Disable claim protection.
 - `/claim mark` — Display claim borders with particles.
 
-### Marketplace
+## Claim Marketplace
 
 - `/claim market` — Open the Claim Marketplace.
 - `/claim sell <price>` — List your claim for sale.
@@ -148,7 +157,7 @@ https://github.com/imSpartann/mc-my-server/blob/main/claim.md
 - `/claim market setspawn` — Set the marketplace teleport location.
 - `/claim market clearspawn` — Remove the marketplace teleport location.
 
-### Claim Tips
+## Claim Tips
 
 - Claim your base as early as possible.
 - Only trust players you know.
@@ -157,11 +166,27 @@ https://github.com/imSpartann/mc-my-server/blob/main/claim.md
 
 ---
 
+## Teleportation
+
+- `/spawn` — Return to spawn.
+- `/lobby` — Go to the lobby.
+- `/rtp` — Randomly teleport.
+- `/tpa <player>` — Request to teleport to a player.
+- `/tpaccept` — Accept a teleport request.
+- `/tpdeny` — Deny a teleport request.
+- `/tphere <player>` — Request a player to teleport to you.
+- `/home [name]` — Teleport to a home.
+- `/sethome [name]` — Set a home.
+- `/delhome <name>` — Delete a home.
+- `/back` — Return to your previous location.
+
+---
+
 ## Sitting, Laying & Crawling
 
 - Right-click a **slab** or **player** with an empty hand to sit.
 - `/sit` — Sit on the ground.
-- `/lay` — Lay down.
+- `/lay` — Lie down.
 - `/crawl` — Crawl on the ground.
 
 ---
@@ -182,15 +207,16 @@ https://github.com/imSpartann/mc-my-server/blob/main/claim.md
 - `/plot home` — Teleport to your plot.
 - `/plot visit <own-name or player name>` — Visit your own plot or another player's plot.
 - `/plot add <player>` — Add a player to your plot.
+- `/plots` — Access plot commands.
 
 ---
 
 ## SkinsRestorer
 
-- `/skin` — Open the skin menu.
+- `/skins` — Open the skins GUI.
+- `/skin` — Access skin commands.
 - `/skin url <URL>` — Apply a custom skin from a URL.
 - `/skin clear` — Restore your default skin.
-- `/skins` — Open the skins GUI.
 
 ---
 
@@ -225,14 +251,31 @@ Replace `Steve` with the target player's name and `Arena_01` with the arena name
 
 ## Teams & Clans
 
-- `/team` — Access the team or clan commands.
+- `/team` — Access team or clan commands.
 - `/teamchat` — Communicate with your team or clan.
+
+---
+
+## Ranks & VIP
+
+- `/rank` — Access rank commands.
+- `/ranksel` — Select a permanent rank.
+- `/vip` — Open the VIP shop.
+
+Progression ranks are earned through gameplay.
+
+---
+
+## Rewards
+
+- `/rewards` — Access available rewards.
+- `/voteall` — Display voting links in chat so players can vote for the server.
 
 ---
 
 ## Spawner System
 
-The **Spawner System** provides an easy way to manage and use spawners through a dedicated GUI.
+The **Spawner System** provides a GUI for managing spawners.
 
 ### Obtaining Spawners
 
@@ -246,10 +289,40 @@ The **Spawner System** provides an easy way to manage and use spawners through a
 
 ### Features
 
-- **Spawner GUI** — Easily manage your spawners through a simple interface.
+- **Spawner GUI** — Manage your spawners through a dedicated interface.
 - **Stack Management** — Manage multiple spawners through the system.
 - **Hopper Support** — Use hoppers to collect items from spawner setups.
 - **Shop Integration** — Purchase spawners directly from `/shop` using PlayerPoints.
+
+---
+
+## Player Points
+
+PlayerPoints can be used to purchase supported items, including spawners.
+
+According to the server's configured rewards, players can earn PlayerPoints from:
+
+- AFK Zone rewards.
+- Online rewards.
+- Achievements.
+- Winning duels.
+
+- `/afkzone` — Go to the AFK Zone.
+
+*Reward amounts and intervals depend on the server configuration.*
+
+---
+
+## Private Messages
+
+- `/whisper <player> <message>` — Send a private message.
+- `/w <player> <message>` — Send a private message.
+
+---
+
+## Experience
+
+- `/expbottle` — Access experience bottle commands.
 
 ---
 
@@ -259,6 +332,7 @@ The **Spawner System** provides an easy way to manage and use spawners through a
 **Server Rules:** https://my-net.asia/rules  
 **FAQ:** https://my-net.asia/faq  
 **Staff:** https://my-net.asia/staff  
+**Rankings:** https://my-net.asia/rank  
 **Discord Community:** https://discord.my-net.asia/  
 **Discord Invite:** https://discord.gg/E4uMq7hQmH
 
