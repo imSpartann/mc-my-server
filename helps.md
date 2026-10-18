@@ -191,23 +191,6 @@ The OneBlock menu includes:
 
 ---
 
-## Minion System
-
-Learn how to craft, unlock, and use Minions.
-
-**Full Minion Guide:**  
-https://github.com/imSpartann/mc-my-server/blob/main/mns.md
-
-The guide includes:
-
-- Crafting recipes
-- Unlock requirements
-- Rewards
-- Required tools
-- Minion usage and tips
-
----
-
 ## Spawner System
 
 The **Spawner System** provides an easy way to manage and use spawners through a dedicated GUI.
@@ -228,23 +211,6 @@ The **Spawner System** provides an easy way to manage and use spawners through a
 - **Stack Management** — Manage multiple spawners through the system.
 - **Shop Integration** — Purchase spawners directly from `/shop` using PlayerPoints.
 
----
-
-## Pets
-
-Pets can be purchased from the **Pet Shop in the Lobby** or tamed yourself.
-
-**Full Pets Guide:**  
-https://github.com/imSpartann/mc-my-server/blob/main/pets.md
-
-The guide includes:
-
-- How to buy pets from the Pet Shop
-- How to tame pets yourself
-- Different taming methods
-- Required food for each pet
-- Full list of available pets
-- Mobs that cannot become pets
 
 ---
 
