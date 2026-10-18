@@ -1,24 +1,25 @@
 # Minecraft Server Information
 
-**Server Name:** Malaysia Minecraft Server | MY-SMP 
+**Server Name:** Malaysia Minecraft Server | MY-SMP  
 **Server Address:** `mc.my-net.asia:3333`  
 **Version:** `1.21.11 - 26.2`
 
 ## Game Modes
 
 - Survival (SMP)
-- PlotSquared (Creative)
-- OneBlock
-- Economy
 - PvP
+- PvP Arena
+- Tier-list ranking (HTLT)
+`https://my-net.asia/rank`
+- OneBlock
+- PlotSquared (Creative)
+- Economy
 - BedWars
-- Lifesteal
-- Tier-list ranking
+- Lifesteal (resource world)
 
 ## Server Details
 
 - **Maximum Players:** 50
-- **Whitelist:** Disabled
 - **Server Location:** Malaysia
 
 ## Community
@@ -46,11 +47,8 @@
 
 Crate Keys can be used at the **Crate Zone** in the Lobby.
 
-### Crate Mass Open
-
-- `/cc mass-open <cratename> <physical> 10` — Open 10 crates at once.
-- Available for all crate types.
-- Requires the **[Epic]** or **[Supreme]** rank.
+- `/crates` — Access the server's crate system.
+- `/crates mass-open <crate-name> p <amount>`
 
 ---
 
@@ -64,8 +62,6 @@ Crate Keys can be used at the **Crate Zone** in the Lobby.
 - `/ah expire` — View expired listings.
 
 **Notes:**
-
-- Available in the **Lobby** only.
 - Maximum **10 active listings** per player.
 
 ---
@@ -75,6 +71,10 @@ Crate Keys can be used at the **Crate Zone** in the Lobby.
 - `/bal` — View your balance.
 - `/baltop` — View the richest players.
 - `/shop` — Open the server shop.
+- `/sellgui` — Open the item-selling GUI.
+- `/trade` — Trade with another player.
+- `/orders` — Access the order system.
+- `/voteall` — Display voting links in chat so players can vote for the server.
 
 ---
 
@@ -85,6 +85,22 @@ Crate Keys can be used at the **Crate Zone** in the Lobby.
 **Requirements:**
 
 - Requires the **plus/plus+/plus++** rank.
+
+---
+
+## Starter Kits
+
+Players can claim basic equipment using the starter kit.
+
+- `/kit` — Access the kit commands.
+- `/kits` — View available kits.
+- `/kits tools` — Claim the basic tools kit.
+
+The `tools` kit provides:
+
+- Leather armor
+- Stone tools
+- Guide Book
 
 ---
 
@@ -174,13 +190,15 @@ https://github.com/imSpartann/mc-my-server/blob/main/claim.md
 - `/skin` — Open the skin menu.
 - `/skin url <URL>` — Apply a custom skin from a URL.
 - `/skin clear` — Restore your default skin.
+- `/skins` — Open the skins GUI.
 
 ---
 
 ## OneBlock
 
-- `/ob` — Create or travel to your OneBlock world.
+- `/ob` — Access your OneBlock world.
 - `/ob gui` — Open the OneBlock menu.
+- `/oregen` — Access the OneBlock ore generation feature.
 
 The OneBlock menu includes:
 
@@ -188,6 +206,27 @@ The OneBlock menu includes:
 - Leave World
 - Delete World
 - Accept an Invitation
+
+---
+
+## PvP Arena
+
+Challenge other players to PvP arena battles.
+
+- `/duel <playername> <arenaname>` — Challenge a player to a duel in the specified arena.
+
+**Usage example:**
+
+`/duel Steve Arena_01`
+
+Replace `Steve` with the target player's name and `Arena_01` with the arena name.
+
+---
+
+## Teams & Clans
+
+- `/team` — Access the team or clan commands.
+- `/teamchat` — Communicate with your team or clan.
 
 ---
 
@@ -209,8 +248,8 @@ The **Spawner System** provides an easy way to manage and use spawners through a
 
 - **Spawner GUI** — Easily manage your spawners through a simple interface.
 - **Stack Management** — Manage multiple spawners through the system.
+- **Hopper Support** — Use hoppers to collect items from spawner setups.
 - **Shop Integration** — Purchase spawners directly from `/shop` using PlayerPoints.
-
 
 ---
 
