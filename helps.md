@@ -84,9 +84,7 @@ Crate Keys can be used at the **Crate Zone** in the Lobby.
 
 **Requirements:**
 
-- Requires the **[Member]** rank.
-- Unlock **[Member]** by breaking **15 logs**.
-- Higher ranks automatically unlock additional backpack slots.
+- Requires the **plus/plus+/plus++** rank.
 
 ---
 
