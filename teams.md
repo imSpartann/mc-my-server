@@ -1,1 +1,6 @@
-<h1>Teams are a great time way to create a community<h1>
+<h1>Teams guide:</h1>
+<h2>How to create a team</h2>
+<ul>
+
+
+</ul>
