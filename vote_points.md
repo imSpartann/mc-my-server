@@ -23,6 +23,6 @@ There's only one way to get Vote Points, which is to vote at a specific website,
 <li> <a href="https://minecraftservers.org/server/673764">"Servers-Org"</a></li>
 <li> <a href="https://minecraft-mp.com/server-s341632">"Mp-Server"</a></li>
 <li> <a href="https://www.minecraftiplist.com/server/malaysiaminecraftserver-37308">"Ip-List"</a></li>
-<li> <a href="‎">""</a></li>
+<li> <a href="https://topminecraftservers.org/server/40264‎">"Test"</a></li>
 
 </ul>
