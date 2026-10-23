@@ -61,4 +61,4 @@ Create your own team now! at <a href="https://my-net.asia/server">My-Smp-Server-
 
 Join our discord server! <a href="https://discord.gg/xgVPKyqwV">My-Smp-Discord-Server-Click Me</a>
 
-My Asia Official FAQ <a href="https://my-net.asia/faq">My-Asia-FAQ-Click Me</a>
+My Asia FAQ <a href="https://my-net.asia/faq">My-Asia-FAQ-Click Me</a>
