@@ -18,10 +18,10 @@ There's only one way to get Vote Points, which is to vote at a specific website,
 <h1>Voting Links ↓</h1>
 
 <ul>
-https://xyrios.com/minecraft/servers/605
-https://minecraft-serverlist.com/server/5330
-https://minecraftservers.org/server/673764
-https://minecraft-mp.com/server-s341632https://topminecraftservers.org/server/40264
-https://www.minecraftiplist.com/server/malaysiaminecraftserver-37308
-  
+<li>https://xyrios.com/minecraft/servers/605</li>
+<li>https://minecraft-serverlist.com/server/5330</li>
+<li>https://minecraftservers.org/server/673764</li>
+<li>https://minecraft-mp.com/server-s341632https://topminecraftservers.org/server/40264</li>
+<li>https://www.minecraftiplist.com/server/malaysiaminecraftserver-37308</li>
+<li>‎https://topminecraftservers.org/server/40264 
 </ul>
