@@ -57,4 +57,8 @@ Get enough gear and start killing the Ender Dragons and Wardens each kill of one
 
 these commands mainly is used by players who are in a team or own a team, 
 
-Create your own team now! at MYSMP
+Create your own team now! at <a href="https://my-net.asia/server">My-Smp-Server-IP-Click Me</a>
+
+Join our discord server! <a href="https://discord.gg/xgVPKyqwV">My-Smp-Discord-Server-Click Me</a>
+
+My Asia Official FAQ <a href="https://my-net.asia/faq">My-Asia-FAQ-Click Me</a>
