@@ -14,14 +14,14 @@ it is used to buy Plus Rank, it has many variations each being increasingly expe
 
 <h3>How to get Vote Points?</h3>
 
-There's only one way to get Vote Points, which is to vote at a specific website, 
+There's only one way to get Vote Points, which is to vote at a specific website, type in your name and vote, (**note:if you're a bedrock player, make sure to include the brx in your name**)
 <h1>Voting Links ↓</h1>
 
 <ul>
-<li>https://xyrios.com/minecraft/servers/605</li>
-<li>https://minecraft-serverlist.com/server/5330</li>
-<li>https://minecraftservers.org/server/673764</li>
-<li>https://minecraft-mp.com/server-s341632https://topminecraftservers.org/server/40264</li>
-<li>https://www.minecraftiplist.com/server/malaysiaminecraftserver-37308</li>
-<li>‎https://topminecraftservers.org/server/40264 
+<li> <a href="https://xyrios.com/minecraft/servers/605">"Xyrios"</a></li>
+<li> <a href="https://minecraft-serverlist.com/server/5330">"Server-List"</a></li>
+<li> <a href="https://minecraftservers.org/server/673764">"Servers-Org"</a></li>
+<li> <a href="https://minecraft-mp.com/server-s341632https://topminecraftservers.org/server/40264">"Mp-Server"</a></li>
+<li> <a href="https://www.minecraftiplist.com/server/malaysiaminecraftserver-37308">"Ip-List"</a></li>
+<li> <a href="‎https://topminecraftservers.org/server/40264">"Top-Minecraft-Server"</a></li>
 </ul>
