@@ -6,5 +6,22 @@ Vote Points are a currency similar to Playerpoints and the usual money that is u
 
 <h3>What is Vote Points Used for?</h3>
 
-it is used to buy Plus Rank, from the GUI in '/vip' and also could be used to buy a Zombie Spawner in the /shop the reason it has a higher value, is the comparison in prices of a certain product, such as the Zombie Spawner, take a look at the prices 
+it is used to buy Plus Rank, it has many variations each being increasingly expensive from the first, on the GUI in '/vip' and also could be used to buy a Zombie Spawner in the /shop the reason it has a higher value, is the comparison in prices of a certain product, such as the Zombie Spawner, take a look at the differences in price
 
+| Product | Playerpoints | Votepoints |
+|---|---|---|
+| Zombie Spawner | 1,000 | 5 |
+
+<h3>How to get Vote Points?</h3>
+
+There's only one way to get Vote Points, which is to vote at a specific website, 
+<h1>Voting Links ↓</h1>
+
+<ul>
+https://xyrios.com/minecraft/servers/605
+https://minecraft-serverlist.com/server/5330
+https://minecraftservers.org/server/673764
+https://minecraft-mp.com/server-s341632https://topminecraftservers.org/server/40264
+https://www.minecraftiplist.com/server/malaysiaminecraftserver-37308
+  
+</ul>
