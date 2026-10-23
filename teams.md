@@ -11,8 +11,50 @@ Start by typing "/team create **name**" But they come with a cost of 1 million p
 
 Get enough gear and start killing the Ender Dragons and Wardens each kill of one of these mobs grants you 100k, kill 10 of these mobs and you get yourself 1 million!, Or if you are not the type to grind, join the available teams!, each teams player's capacity is 10 player per team (**"ask the owner of the team first"**) if you would like to join theirs.
 
-<h2>What are the commands for teams?</h2>
+<h2>What are the commands for Team Leaders?</h2>
+
 <ul>
+<li>"/team disband"</li>
+
+<li>"/team invite (accept/deny/send)"</li>
+
+<li>"/team kick (player)"</li>
+
+<li>"/team prefix (prefix-name)"</li>
+
+<li>"/team transfer (player)"</li>
+
+<li>"/team ally (add/remove) (team-owner)"</li>
+
+<li>"/team enemy (add/remove) (team-owner)"</li>
+
+<li>"/team pvp (disables/enable pvp)"</li>
+
+<li>"/team (sethome/delhome/home)"</li>
+
+<li>"/team (promote/demote) (player)"</li>
+
+<li>"/team permission (add/remove) (permission)"</li>
+
 
 
 </ul>
+
+<h2>What are the commands for Team Members?</h2>
+
+<ul>
+<li>"/team info (team name)"</li>
+
+<li>"/team leave"</li>
+
+<li>"/teamchat (or /tc)"</li>
+
+<li>"/team list"</li>
+
+<li>"allychat (or /ac) only if your teams have allies,"</li>
+  
+</ul>
+
+these commands mainly is used by players who are in a team or own a team, 
+
+Create your own team now! at MYSMP
