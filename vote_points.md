@@ -6,7 +6,7 @@ Vote Points are a currency similar to Playerpoints and the usual money that is u
 
 <h3>What is Vote Points used for?</h3>
 
-it is used to buy Plus Rank, it has many variations each being increasingly expensive from the first, on the GUI in '/vip' and also could be used to buy a Zombie Spawner in the /shop the reason it has a higher value, is the comparison in prices of a certain product, such as the Zombie Spawner, take a look at the differences in price
+it is used to buy Plus Rank, it has many variations each being increasingly expensive from the first, on the GUI in '/vip' and also could be used to buy a Zombie Spawner in the '/shop' the reason it has a higher value, is the comparison in prices of a certain product, such as the Zombie Spawner, take a look at the differences in price
 
 | Product | Playerpoints | Votepoints |
 |---|---|---|
